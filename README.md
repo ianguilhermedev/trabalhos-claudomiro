@@ -7,5 +7,6 @@ Todos os trabalhos da matéria organizados em pastas para avaliação final feit
 ```bash
 ├── questoes-processador/
 ├── simulador-processador/
+├── slides-processador/
 └── README.md
 ```
